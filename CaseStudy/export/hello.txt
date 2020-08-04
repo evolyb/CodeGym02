@@ -1,0 +1,8 @@
+@ hello
+* noun
+- xin chào
+= hello everybody + xin chào các bạn
+* verb
+- chào
+- chào bạn
+
