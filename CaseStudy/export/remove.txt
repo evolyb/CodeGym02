@@ -1,0 +1,7 @@
+@ remove
+* verb
+  - Huyr
+    = Cancle event + Huỷ bữa tiệc
+* synonymous
+  - delete
+
